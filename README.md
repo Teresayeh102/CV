@@ -58,7 +58,7 @@
       <br>
       <h2>作品瀏覽</h2>
           <div class="gallery">
-           <img src="[art profolio/dystopia.png](https://mir-s3-cdn-cf.behance.net/projects/max_808/1f5c9a119056675.Y3JvcCwxNDAwLDEwOTUsMCw2Mg.png)">
+           <img src="https://mir-s3-cdn-cf.behance.net/projects/max_808/1f5c9a119056675.Y3JvcCwxNDAwLDEwOTUsMCw2Mg.png">
          </a>
           <div class="remarks">
             dystopia
